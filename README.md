@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sumanreddyk/HelloPipeline/_apis/build/status/sumanreddyk.pipelines-java?branchName=master)](https://dev.azure.com/sumanreddyk/HelloPipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
